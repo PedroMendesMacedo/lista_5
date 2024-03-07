@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Pedro/Downloads/Atividades_Augusto/LISTA-03-main",
-      "program": "c:/Users/Pedro/Downloads/Atividades_Augusto/LISTA-03-main/build/Debug/outDebug",
+      "cwd": "c:/Users/Pedro/Downloads/Atividades_Augusto/LISTA-4",
+      "program": "c:/Users/Pedro/Downloads/Atividades_Augusto/LISTA-4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
